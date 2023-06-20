@@ -1,0 +1,19 @@
+{
+    "name": "yagas/easynuonuo",
+    "description": "ease nounou sdk",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Yagas\\Easynuonuo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "yagas",
+            "email": "yagas@sina.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
