@@ -1,7 +1,8 @@
 <?php
 
 namespace Easynuonuo;
-class NouNou {
+class NuoNuo
+{
     public $options;
 
     public function __construct($options)
