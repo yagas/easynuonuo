@@ -1,10 +1,7 @@
 <?php
+namespace Easynuonuo\opeMplatform;
 
-namespace Easynuonuo;
-
-use Easynuonuo\invoice\invoice;
-
-class NuoNuo
+class opeMplatform
 {
     public $appKey;
     public $appSercret;
